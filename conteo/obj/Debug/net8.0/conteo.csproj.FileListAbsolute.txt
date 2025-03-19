@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\bin\Debug\net8.0\conteo.exe
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\bin\Debug\net8.0\conteo.deps.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\bin\Debug\net8.0\conteo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\bin\Debug\net8.0\conteo.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\bin\Debug\net8.0\conteo.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\conteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\conteo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\conteo.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\conteo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\conteo.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\refint\conteo.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\conteo.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\conteo.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\conteo\obj\Debug\net8.0\ref\conteo.dll

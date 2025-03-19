@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inversio", "inversio.csproj", "{14287FEC-0C70-2F34-6BE1-44D2C4B88A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14287FEC-0C70-2F34-6BE1-44D2C4B88A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14287FEC-0C70-2F34-6BE1-44D2C4B88A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14287FEC-0C70-2F34-6BE1-44D2C4B88A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14287FEC-0C70-2F34-6BE1-44D2C4B88A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B05C3F35-9F29-4247-A881-EBCDE88F45F3}
+	EndGlobalSection
+EndGlobal

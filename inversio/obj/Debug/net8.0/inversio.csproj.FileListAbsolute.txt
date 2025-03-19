@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\bin\Debug\net8.0\inversio.exe
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\bin\Debug\net8.0\inversio.deps.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\bin\Debug\net8.0\inversio.runtimeconfig.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\bin\Debug\net8.0\inversio.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\bin\Debug\net8.0\inversio.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\inversio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\inversio.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\inversio.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\inversio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\inversio.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\refint\inversio.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\inversio.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\inversio.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\inversio\obj\Debug\net8.0\ref\inversio.dll

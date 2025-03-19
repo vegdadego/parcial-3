@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\bin\Debug\net8.0\ventaS.exe
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\bin\Debug\net8.0\ventaS.deps.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\bin\Debug\net8.0\ventaS.runtimeconfig.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\bin\Debug\net8.0\ventaS.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\bin\Debug\net8.0\ventaS.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ventaS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ventaS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ventaS.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ventaS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ventaS.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\refint\ventaS.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ventaS.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ventaS.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\ventaS\obj\Debug\net8.0\ref\ventaS.dll

@@ -1,0 +1,28 @@
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\bin\Debug\net8.0\alumnos.exe
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\bin\Debug\net8.0\alumnos.deps.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\bin\Debug\net8.0\alumnos.runtimeconfig.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\bin\Debug\net8.0\alumnos.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\bin\Debug\net8.0\alumnos.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\alumnos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\alumnos.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\alumnos.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\refint\alumnos.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\alumnos.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\alumnos.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\alumnos\obj\Debug\net8.0\ref\alumnos.dll
+C:\Users\Lenovo\Desktop\parcial3\alumnos\bin\Debug\net8.0\alumnos.exe
+C:\Users\Lenovo\Desktop\parcial3\alumnos\bin\Debug\net8.0\alumnos.deps.json
+C:\Users\Lenovo\Desktop\parcial3\alumnos\bin\Debug\net8.0\alumnos.runtimeconfig.json
+C:\Users\Lenovo\Desktop\parcial3\alumnos\bin\Debug\net8.0\alumnos.dll
+C:\Users\Lenovo\Desktop\parcial3\alumnos\bin\Debug\net8.0\alumnos.pdb
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\alumnos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\alumnos.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\alumnos.dll
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\refint\alumnos.dll
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\alumnos.pdb
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\alumnos.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\parcial3\alumnos\obj\Debug\net8.0\ref\alumnos.dll

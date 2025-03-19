@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\bin\Debug\net8.0\busqueda.exe
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\bin\Debug\net8.0\busqueda.deps.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\bin\Debug\net8.0\busqueda.runtimeconfig.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\bin\Debug\net8.0\busqueda.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\bin\Debug\net8.0\busqueda.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\busqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\busqueda.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\busqueda.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\busqueda.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\busqueda.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\refint\busqueda.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\busqueda.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\busqueda.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\busqueda\obj\Debug\net8.0\ref\busqueda.dll

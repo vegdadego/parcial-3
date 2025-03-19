@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\bin\Debug\net8.0\orden.exe
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\bin\Debug\net8.0\orden.deps.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\bin\Debug\net8.0\orden.runtimeconfig.json
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\bin\Debug\net8.0\orden.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\bin\Debug\net8.0\orden.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\orden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\orden.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\orden.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\orden.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\orden.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\refint\orden.dll
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\orden.pdb
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\orden.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\programaqcion clase\programaqcion clase\orden\obj\Debug\net8.0\ref\orden.dll
