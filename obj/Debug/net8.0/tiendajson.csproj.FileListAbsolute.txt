@@ -1,0 +1,17 @@
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\bin\Debug\net8.0\tiendajson.exe
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\bin\Debug\net8.0\tiendajson.deps.json
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\bin\Debug\net8.0\tiendajson.runtimeconfig.json
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\bin\Debug\net8.0\tiendajson.dll
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\bin\Debug\net8.0\tiendajson.pdb
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.AssemblyInfoInputs.cache
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.AssemblyInfo.cs
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.csproj.CoreCompileInputs.cache
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.dll
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\refint\tiendajson.dll
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.pdb
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.genruntimeconfig.cache
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\ref\tiendajson.dll
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.csproj.AssemblyReference.cache
+C:\Users\jfytr\Desktop\parcial-3-main\tiendajson\obj\Debug\net8.0\tiendajson.csproj.Up2Date
