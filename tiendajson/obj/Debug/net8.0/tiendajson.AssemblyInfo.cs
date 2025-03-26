@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tiendajson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cc1759f405e3e1172e3649817855a970de0ffe4")]
 [assembly: System.Reflection.AssemblyProductAttribute("tiendajson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tiendajson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

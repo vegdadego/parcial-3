@@ -2,7 +2,37 @@
   {
     "codigo": "01020304",
     "nombre": "papitas",
-    "cantidad": 8,
+    "cantidad": 1,
     "precio": 20.0
+  },
+  {
+    "codigo": "123",
+    "nombre": "coca",
+    "cantidad": 3,
+    "precio": 20.0
+  },
+  {
+    "codigo": "456",
+    "nombre": "galletas",
+    "cantidad": 49,
+    "precio": 18.0
+  },
+  {
+    "codigo": "123",
+    "nombre": "coca",
+    "cantidad": 1,
+    "precio": 20.0
+  },
+  {
+    "codigo": "654",
+    "nombre": "chettos",
+    "cantidad": 10,
+    "precio": 15.0
+  },
+  {
+    "codigo": "597",
+    "nombre": "cocacola",
+    "cantidad": 5,
+    "precio": 21.0
   }
 ]

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jfytr\\Desktop\\parcial-3-main\\tiendajson\\tiendajson.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\parcial3\\tiendajson\\tiendajson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jfytr\\Desktop\\parcial-3-main\\tiendajson\\tiendajson.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\parcial3\\tiendajson\\tiendajson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jfytr\\Desktop\\parcial-3-main\\tiendajson\\tiendajson.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\parcial3\\tiendajson\\tiendajson.csproj",
         "projectName": "tiendajson",
-        "projectPath": "C:\\Users\\jfytr\\Desktop\\parcial-3-main\\tiendajson\\tiendajson.csproj",
-        "packagesPath": "C:\\Users\\jfytr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jfytr\\Desktop\\parcial-3-main\\tiendajson\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\parcial3\\tiendajson\\tiendajson.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\parcial3\\tiendajson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jfytr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
