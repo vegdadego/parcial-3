@@ -1,0 +1,20 @@
+[
+  {
+    "Nombre": "jorge",
+    "Calificaciones": [
+      9.0,
+      8.0,
+      7.0
+    ],
+    "Promedio": 8.0
+  },
+  {
+    "Nombre": "erick",
+    "Calificaciones": [
+      80.0,
+      90.0,
+      70.0
+    ],
+    "Promedio": 80.0
+  }
+]
